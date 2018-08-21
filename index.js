@@ -2,7 +2,7 @@
 var happyHollidays = "Happy holidays!"
 
 function happyHolidays () {
-  console.log ()
+  return ("Happy holidays!")
 }
 
 
